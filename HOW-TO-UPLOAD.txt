@@ -1,0 +1,15 @@
+Measure Up! — performance update (Oct 23, 2026)
+
+Upload EVERYTHING in this folder to your Render static site, keeping the layout:
+  index.html
+  icon.png
+  gators.png
+  audio/   (69 .mp3 recordings — the folder must sit next to index.html)
+
+The recordings are now separate files, so the page must be opened from the website
+(https://...), not by double-clicking index.html on your computer: browsers block
+a page opened from a file from loading the audio folder.
+
+Student progress already saved in a browser moves over automatically the first time
+the new version opens there. (After that, the OLD version would no longer see it, so
+don't switch back to the old file once students have used this one.)
